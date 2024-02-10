@@ -9,7 +9,11 @@ body {
   padding-bottom: 70px;
   width: 100%;
   background-color: #fff;
+  display: grid;
+  place-items: center;
+  height: 100vh;
 }
+
 section {
   padding: 1rem;
 }
